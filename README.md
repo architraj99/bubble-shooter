@@ -4,13 +4,19 @@ Match bubbles of the same color to clear the board and score points!
 
 How to Play :-------------------------
 Aim the shooter using your mouse cursor
+
 Click on the bubble on which you want to shoot 
+
 Match 3 or more bubbles of the same color to pop them.
+
 Clear all bubbles to win.
+
 
 Avoid letting bubbles reach the bottom elsw you will loose
 
+
 NOTE: MAKE SURE TO REFRESH THE WEBSITE 2-3 TIMES AFTER THE GAME OVER 
+
 
 Built With
 HTML
